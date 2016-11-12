@@ -1,6 +1,4 @@
-# copula-tool-for-risk-integration
-
-A Couplua Tool For Risk Integration - Capstone Final Year Project
+# A Couplua Tool For Risk Integration - Capstone Final Year Project
 
 The thesis investigates the use of copulas as a statistical model to describe the marginal and dependence structure of multivariate risk probability distributions. 
 Both bottom-up and top-down approaches are compared to simulate joint capital requirements for market risk and credit risk.  
